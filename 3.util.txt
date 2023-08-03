@@ -5,3 +5,4 @@ add from login
 add from github
 update in github
 update local
+update remote
